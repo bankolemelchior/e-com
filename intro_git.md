@@ -98,3 +98,5 @@ Un commit est l'action d'enregistrer une transaction ou une série de modificati
 
 ### git add .
 La commande git add est utilisée dans Git pour placer les modifications d'un ou plusieurs fichiers dans la zone de préparation (aussi appelée staging area), avant de les enregistrer de manière permanente dans l'historique du projet avec git commit. Elle permet de sélectionner précisément les changements que vous souhaitez inclure dans votre prochain commit, offrant ainsi un contrôle fin sur l'historique de votre version de code. 
+
+### git commit -m "message du commit"
