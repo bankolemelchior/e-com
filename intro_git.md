@@ -109,6 +109,34 @@ La commande git add est utilisée dans Git pour placer les modifications d'un ou
 ## def github
 
 ## Comment créer un dépôt github
+Reponse Sergeio
+
+Pour créer un dépôt github suivez ces étapes:
+
+Connecte-toi sur github.com
+.
+
+En haut à droite, clique sur le bouton “+” → New repository.
+
+Donne un nom à ton dépôt (ex: mon-projet).
+
+Choisis si tu veux :
+
+Public (tout le monde peut voir)
+
+Private (seulement toi et tes collaborateurs)
+
+Tu peux ajouter :
+
+Une description (facultatif).
+
+Un README.md (souvent recommandé).
+
+Un .gitignore (selon ton langage).
+
+Une licence (optionnelle).
+
+Clique sur Create repository.
 
 ## comment lier un dépôt github à un projet en local
 
