@@ -113,3 +113,8 @@ La commande git add est utilisée dans Git pour placer les modifications d'un ou
 ## comment lier un dépôt github à un projet en local
 
 ## C'est quoi le pull request
+
+## Pour lier un dépôt GitHub à un projet local, vous devez: 
+ D'abord initialiser Git dans votre dossier local avec git init. 
+ Ensuite, créez un dépôt sur GitHub et obtenez son URL. Dans le terminal, utilisez git remote add origin <URL_du_dépôt> pour lier le dépôt local au dépôt distant. Pour ajouter vos fichiers, utilisez git add . suivi de git commit -m "Description du commit".
+ Enfin, pour envoyer ces fichiers vers le dépôt distant, utilisez git push -u origin main. 
