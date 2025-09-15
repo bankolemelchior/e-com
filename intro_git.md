@@ -117,3 +117,8 @@ Pour relier votre dépôt local au dépôt GitHub (distant), il faut ajouter l�
 git remote add origin <URL-du-depot-GitHub>
 
 ## C'est quoi le pull request
+
+## Pour lier un dépôt GitHub à un projet local, vous devez: 
+ D'abord initialiser Git dans votre dossier local avec git init. 
+ Ensuite, créez un dépôt sur GitHub et obtenez son URL. Dans le terminal, utilisez git remote add origin <URL_du_dépôt> pour lier le dépôt local au dépôt distant. Pour ajouter vos fichiers, utilisez git add . suivi de git commit -m "Description du commit".
+ Enfin, pour envoyer ces fichiers vers le dépôt distant, utilisez git push -u origin main. 
