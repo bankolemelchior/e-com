@@ -113,3 +113,6 @@ La commande git add est utilisée dans Git pour placer les modifications d'un ou
 ## comment lier un dépôt github à un projet en local
 
 ## C'est quoi le pull request
+
+## Raoul/ Le pull request:
+Une « pull request » (ou demande d'extraction) est une proposition de fusion de changements de code d'une branche vers une autre dans un projet de développement logiciel. Elle permet aux membres de l'équipe de discuter, de réviser et d'approuver ces modifications avant de les intégrer à la base de code principale, assurant ainsi la qualité et la stabilité du projet. 
