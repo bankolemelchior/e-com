@@ -103,3 +103,13 @@ La commande git add est utilisée dans Git pour placer les modifications d'un ou
 
 ### git branch "nom_de_la_branche"
 ### git switch "nom_de_la_branche de switch"
+
+###################~ Github ~################
+
+## def github
+
+## Comment créer un dépôt github
+
+## comment lier un dépôt github à un projet en local
+
+## C'est quoi le pull request
