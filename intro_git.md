@@ -113,5 +113,7 @@ GitHub est une plateforme d'hébergement web et de gestion de projet basée sur 
 ## Comment créer un dépôt github
 
 ## comment lier un dépôt github à un projet en local
+Pour relier votre dépôt local au dépôt GitHub (distant), il faut ajouter l’URL du dépôt distant en tant qu’origin. Utilisez la commande :
+git remote add origin <URL-du-depot-GitHub>
 
 ## C'est quoi le pull request
