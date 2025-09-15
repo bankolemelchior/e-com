@@ -112,4 +112,7 @@ La commande git add est utilisée dans Git pour placer les modifications d'un ou
 
 ## comment lier un dépôt github à un projet en local
 
+pour lier un dépôt github à un projet, il faut untiliser la commande 
+``git remote add origin`` suivie du lien du dépôt github
+
 ## C'est quoi le pull request
