@@ -108,24 +108,14 @@ La commande git add est utilisée dans Git pour placer les modifications d'un ou
 
 ## def github
 
+GitHub est une plateforme d'hébergement web et de gestion de projet basée sur le cloud qui utilise le système de contrôle de version distribué Git pour permettre aux développeurs de stocker, partager et collaborer sur du code. Elle offre une interface web, des outils de gestion de projet, des fonctionnalités de collaboration (comme les « pull requests » et les « branches »), et est largement utilisée pour les projets open-source et privés par des millions de développeurs et d'entreprises dans le monde. 
+
 ## Comment créer un dépôt github
 
-Clique sur le bouton New 
 
-Donne un nom (ex : mon-projet).
-
-Ajoute une description (optionnel).
-
-Choisis Public ou Private.
-
-Coche Add a README pour générer un fichier README.
-
-Clique sur Create repository.
-
-## comment lier un dépôt github à un projet en local: avec la commande "git remote add origin/upstream (url du depot git)"
+## comment lier un dépôt github à un projet en local
 
 ## C'est quoi le pull request
-le pull request c'est le pull request
 
 ## Raoul/ Le pull request:
 Une « pull request » (ou demande d'extraction) est une proposition de fusion de changements de code d'une branche vers une autre dans un projet de développement logiciel. Elle permet aux membres de l'équipe de discuter, de réviser et d'approuver ces modifications avant de les intégrer à la base de code principale, assurant ainsi la qualité et la stabilité du projet. 
