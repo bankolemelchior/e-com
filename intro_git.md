@@ -107,7 +107,7 @@ La commande git add est utilisée dans Git pour placer les modifications d'un ou
 ###################~ Github ~################
 
 ## def github
-
+GitHub is a web-based platform for hosting, sharing, and collaborating on software development projects using Git for version control.
 ## Comment créer un dépôt github
 
 ## comment lier un dépôt github à un projet en local
