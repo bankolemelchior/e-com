@@ -108,8 +108,15 @@ La commande git add est utilisée dans Git pour placer les modifications d'un ou
 
 ## def github
 
+GitHub est une plateforme d'hébergement web et de gestion de projet basée sur le cloud qui utilise le système de contrôle de version distribué Git pour permettre aux développeurs de stocker, partager et collaborer sur du code. Elle offre une interface web, des outils de gestion de projet, des fonctionnalités de collaboration (comme les « pull requests » et les « branches »), et est largement utilisée pour les projets open-source et privés par des millions de développeurs et d'entreprises dans le monde. 
+
 ## Comment créer un dépôt github
+
 
 ## comment lier un dépôt github à un projet en local
 
+
 ## C'est quoi le pull request
+
+## Pour lier un dépôt GitHub à un projet local, vous devez: 
+ 
