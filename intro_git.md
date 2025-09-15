@@ -110,6 +110,18 @@ La commande git add est utilisée dans Git pour placer les modifications d'un ou
 
 ## Comment créer un dépôt github
 
+Clique sur le bouton New 
+
+Donne un nom (ex : mon-projet).
+
+Ajoute une description (optionnel).
+
+Choisis Public ou Private.
+
+Coche Add a README pour générer un fichier README.
+
+Clique sur Create repository.
+
 ## comment lier un dépôt github à un projet en local
 
 ## C'est quoi le pull request
