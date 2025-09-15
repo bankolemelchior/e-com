@@ -111,42 +111,12 @@ La commande git add est utilisée dans Git pour placer les modifications d'un ou
 GitHub est une plateforme d'hébergement web et de gestion de projet basée sur le cloud qui utilise le système de contrôle de version distribué Git pour permettre aux développeurs de stocker, partager et collaborer sur du code. Elle offre une interface web, des outils de gestion de projet, des fonctionnalités de collaboration (comme les « pull requests » et les « branches »), et est largement utilisée pour les projets open-source et privés par des millions de développeurs et d'entreprises dans le monde. 
 
 ## Comment créer un dépôt github
-Reponse Sergeio
 
-Pour créer un dépôt github suivez ces étapes:
-
-Connecte-toi sur github.com
-.
-
-En haut à droite, clique sur le bouton “+” → New repository.
-
-Donne un nom à ton dépôt (ex: mon-projet).
-
-Choisis si tu veux :
-
-Public (tout le monde peut voir)
-
-Private (seulement toi et tes collaborateurs)
-
-Tu peux ajouter :
-
-Une description (facultatif).
-
-Un README.md (souvent recommandé).
-
-Un .gitignore (selon ton langage).
-
-Une licence (optionnelle).
-
-Clique sur Create repository.
 
 ## comment lier un dépôt github à un projet en local
-Pour relier votre dépôt local au dépôt GitHub (distant), il faut ajouter l’URL du dépôt distant en tant qu’origin. Utilisez la commande :
-git remote add origin <URL-du-depot-GitHub>
+
 
 ## C'est quoi le pull request
 
 ## Pour lier un dépôt GitHub à un projet local, vous devez: 
- D'abord initialiser Git dans votre dossier local avec git init. 
- Ensuite, créez un dépôt sur GitHub et obtenez son URL. Dans le terminal, utilisez git remote add origin <URL_du_dépôt> pour lier le dépôt local au dépôt distant. Pour ajouter vos fichiers, utilisez git add . suivi de git commit -m "Description du commit".
- Enfin, pour envoyer ces fichiers vers le dépôt distant, utilisez git push -u origin main. 
+ 
